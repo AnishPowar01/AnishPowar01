@@ -1,4 +1,6 @@
-![Screenshot 2023-06-05 102648](https://github.com/AnishPowar01/AnishPowar01/assets/98533150/50af970c-5029-4ad9-ac48-421716a5e1d7)
+![MasterHead](https://github.com/AnishPowar01/AnishPowar01/assets/98533150/53a6553f-5491-44c6-96c4-55977d9cb8eb)
+
+<!-- ![mario_the_pro_coder](https://github.com/AnishPowar01/AnishPowar01/assets/98533150/53a6553f-5491-44c6-96c4-55977d9cb8eb) -->
 
 
 <h1 align="center">Hey 👋, I'm Anish Powar</h1>
