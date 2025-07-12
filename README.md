@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anishpowar01&label=Profile%20views&color=0e75b6&style=flat" alt="anishpowar01" /> </p>
 
-- 🌱 I’m currently learning **THREE.JS**
+- 🌱 Software Dev @Western Union
 
 - 📫 How to reach me **powaranish74@gmail.com**
 <hr>
